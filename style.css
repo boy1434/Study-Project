@@ -1,0 +1,23 @@
+.box{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.box_red{
+    border: 50px solid red;
+    margin-bottom: 20px;
+}
+
+.box_green{
+    border: 50px solid green;
+    margin-bottom: 20px;
+}
+
+.box_blue{
+    border: 50px solid blue;
+    
+}
+
+
+
